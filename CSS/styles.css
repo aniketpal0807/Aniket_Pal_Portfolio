@@ -42,7 +42,10 @@ body {
     margin-right: 20px;
 }
 
-
+.name-img {
+    height : 30%;
+     width : 40%;
+}
 
 .btn-rounded {
     color: black;
@@ -211,7 +214,7 @@ i {
     font-family: 'Nanum Myeongjo', serif;
     color: #F5F5F5;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 140%;
     font-weight: 800;
 }
 
