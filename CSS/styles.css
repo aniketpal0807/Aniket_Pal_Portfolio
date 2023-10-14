@@ -1,0 +1,318 @@
+
+
+body {
+    font-family: 'Nanum Myeongjo', serif;
+    background: linear-gradient(to right,
+    rgba(58, 127, 217, 0.95),
+    rgba(3, 227, 247, 0.65)
+    );
+    color: #F5F5F5;
+   
+}
+
+.intro-text{
+    color: white;
+    font-size: 30px;
+    line-height:20x;
+}
+
+.intro-section{
+    margin-top: 100px;
+}
+
+
+.name{
+    font-weight: 900;
+}
+
+
+
+.nav-color{
+    background: linear-gradient(to right,
+    rgba(58, 127, 217, 0.95),
+    rgba(3, 227, 247, 0.65)
+    );
+    color: #F5F5F5;
+}
+
+
+
+.logo-img{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+.name-img {
+    height : 30%;
+     width : 40%;
+}
+
+.btn-rounded {
+    color: black;
+    font-size: 20px;
+    position: relative;
+    padding: 0.6375rem 4.375rem 0.6375rem 0.8rem;
+    font-weight: 700;
+    margin: 10px 8% 10px 10px ;;
+    border: 0.1rem solid rgba(white, 0.6);
+    background-color: white;
+    display: block;
+    
+
+}
+
+
+span {
+    position: absolute;
+    background-color:rgba(3, 227, 247, 0.65) ;
+    width: 2.5rem;
+    height: 2.5rem;
+    top: 50%;
+    right: 5px;
+    transform: translateY(-50%);
+    border-radius: 50%;
+    margin-right: 10px;
+
+}
+
+i {
+    color: white;
+    font-size: 1rem;
+    line-height: 2.5rem;
+}
+
+
+.btn-rounded:hover {
+        
+    background: linear-gradient(to right,
+    rgba(58, 127, 217, 0.95),
+    rgba(3, 227, 247, 0.65)
+    );
+    color: #fff;
+    
+}
+
+.call-button{
+    font-family: 'Nanum Myeongjo', serif;
+    color: #212529 ;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.call-button:hover{
+    color: #fff;
+}
+
+
+.nav-ul{
+    font-family: 'Nanum Myeongjo', serif;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+
+.resume-span{
+ background:rgba(58, 127, 217, 0.95);  
+}
+
+.button-a{
+    text-decoration: none;
+    color: rgba(60, 139, 242, 0.95); 
+}
+
+.footer-container{
+    background-color: rgba(58, 127, 217, 0.95);
+    width: 100%;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.footer-text{
+    padding-top: 10px;
+}
+
+.logo-footer-img{
+    margin-left: 70px;
+    margin-right: 20px;
+}
+
+.footer-ul{
+    padding-right: 15%;
+    margin-bottom: 0px;
+}
+
+
+.bottom-container{
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+
+}
+
+.footer-i {
+    color: white;
+    font-size: 2rem;
+    line-height: 3rem;
+    
+}
+
+.footer-i:hover{
+    color: rgba(58, 127, 217, 0.95);
+
+}
+.social-link{
+    margin-top: 0px;
+    background-color: #343a40;
+    margin-bottom: 0px;
+}
+
+.footer-img{
+    margin-left: 12%;
+    margin-bottom: 0px;
+}
+
+.footer-p{
+  margin-bottom: 0px;
+  margin-top: 10px;    
+  margin-right: 40%;
+}
+
+.footer-b{
+    padding-top: 3rem;
+    padding-bottom: 0px;
+}
+
+.container2{
+    background-color: #212529 ;
+}
+
+.icon{
+    color: rgba(58, 127, 217, 0.95);
+    font-size: 3rem;
+}
+
+.feature-section{
+    margin: 100px 0px 0px 0px;
+    width: 100%;
+    background-color: #212529 ;
+}
+
+.feature-col1{
+ padding-left: 10%;   
+}
+
+.feature-col2{
+    padding-left: 7%;
+}
+
+.feature-col3{
+    padding-left: 5%;
+}
+
+.feature-text{
+    font-family: 'Nanum Myeongjo', serif;
+    color: #F5F5F5;
+    text-decoration: none;
+    font-size: 140%;
+    font-weight: 900;
+}
+
+
+
+.feature-text:hover{
+    color: rgba(58, 127, 217, 0.95);
+}
+
+.feature-p{
+    font-family: 'Nanum Myeongjo', serif;
+    opacity: 0.50;
+
+}
+
+.name1{
+    height: 500px;
+    background-color: #F5F5F5;
+    color: black;
+}
+
+
+.companies-section{
+    margin-top: 100px;
+    height: auto;
+    background-color: #F5F5F5;
+    color: black;
+    padding-top: 100px;
+}
+
+.com-text{
+    font-family: 'Nanum Myeongjo', serif;
+    font-weight: 900;
+}
+
+
+.com-img{
+    height: 30px;
+    width: 120px;
+    margin: 10px 0px;
+}
+
+.campanies__logo-box{
+    text-align: center;
+}
+
+@media (min-width: 1200px) {
+    
+    .f-top {
+        position: fixed;
+        top: 0;
+        right: 0;
+        left: 0;
+        z-index: 1030;
+    }
+}
+
+
+@media (max-width: 600px) {
+    
+    .name-img {
+        height : 50%;
+         width : 60%;
+    }
+
+    body{
+        text-align: center;
+    }
+
+    .col-lg-2{
+        padding-bottom: 40px;
+        
+    }
+
+    .feature-col1{
+        padding-left: 25px;
+    }
+  
+    .feature-p{
+        text-align: left;
+    }
+
+    .social-link{
+        justify-content: center;
+        padding-left: 30%;
+    }
+
+    .footer-img{
+        margin-left: 15%;
+    }
+
+    .footer-p{
+        width: 50%;
+    }
+
+    .resume-btn{
+        margin-left: 25%;
+        margin-top: 60px;
+    }
+}
