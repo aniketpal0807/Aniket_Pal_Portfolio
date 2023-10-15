@@ -253,9 +253,12 @@ i {
 
 
 .com-img{
-    height: 30px;
+    height: 40px;
     width: 120px;
     margin: 10px 0px;
+}
+.col-lg-2{
+    padding: 20px;
 }
 
 .campanies__logo-box{
